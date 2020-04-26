@@ -6,7 +6,8 @@ Problem Name: Insert sort by asc order
 */
 
 void main() {
-  List unSortItems = [ 3, 100, 39,1];
+  List unSortItems = [10, 7, 2, 8, 5];
+ 
   int i, j, temp, min_index;
 
   for (i = 0; i <= unSortItems.length - 1; i++) {
@@ -17,13 +18,13 @@ void main() {
         min_index = j;
       }
     }
-    //swaping list 
+    //swaping list
     if (min_index != i) {
       temp = unSortItems[i];
       unSortItems[i] = unSortItems[min_index];
       unSortItems[min_index] = temp;
     }
-  
   }
+  
   print("Sorted list by accending order :$unSortItems");
 }

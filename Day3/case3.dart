@@ -6,7 +6,7 @@ Problem Name: Insert sort by asc order  with function
 */
 
 void main() {
-  List unSortItems = [3, 100, 39, 1];
+  List unSortItems = [3, 100, 39, 1,-3,40,5];
 
   List _insertSort(List unSortItems) {
     int i, j, temp, min_index;
