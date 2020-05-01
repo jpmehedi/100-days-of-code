@@ -6,7 +6,7 @@ Problem Name: Program to find greatest in 3 numbers.
 */
 
 void main() {
-  int numberOne = 50;
+  int numberOne = 47;
   int numberTwo = 10;
   int numberThree = 70;
 
