@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day11/problem.dart",
+            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day12/recursion.dart",
             "request": "launch",
             "type": "dart"
         }
