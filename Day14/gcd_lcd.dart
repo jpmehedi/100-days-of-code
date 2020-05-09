@@ -15,9 +15,11 @@ void main(){
   tempTwo = numberTwo;
 
   while(numberTwo != 0){
+
     temp = numberTwo;
     numberTwo = numberOne ~/ numberTwo;
     numberOne = temp;
+    
   }
 
   gcd = numberOne;
