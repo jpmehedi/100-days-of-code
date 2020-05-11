@@ -2,7 +2,7 @@
 Hello !! I Love Dart Programming Language
 Author: Mehedi Hasan
 Topics: Problem Solving || Algorithm & Data Structure 
-Problem Name: Dart program to find the GCD and LCM of two integers using Euclids' algorithm
+Problem Name: Dart program to find nPr and nCr using a function
 */
 
 void main() {
