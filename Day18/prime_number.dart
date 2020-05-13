@@ -10,7 +10,7 @@ void main() {
   for (i = 2; i < inputNumber; i++) {
     if (inputNumber % i == 0) { 
       count++;
-      break;
+  break;
     }
   }
   if(count == 0){

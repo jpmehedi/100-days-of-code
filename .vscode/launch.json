@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day17/palindrome.dart",
+            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day19/fibonaci_serics.dart",
             "request": "launch",
             "type": "dart"
         }
