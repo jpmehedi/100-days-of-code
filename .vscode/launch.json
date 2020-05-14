@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day20/string_comparetion.dart",
+            "program": "/media/jpmehedi/Flutter & Dart/Dart-Learning-Code/100DaysOfCode/Day20/string_sort.dart",
             "request": "launch",
             "type": "dart"
         }

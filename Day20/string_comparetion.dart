@@ -11,7 +11,7 @@ void main() {
   String string1 = "A";
   String string2 = "B";
 
-  int compare1 = string1.compareTo(string2);
+  int compare1 = string1.compareTo(string2); ///compareTo return int 0 or 1 or -1
 
   if (compare1 == 0) {
     print("String1 is equeal to String 2");
