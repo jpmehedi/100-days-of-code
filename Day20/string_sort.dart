@@ -2,7 +2,7 @@
 Hello !! I Love Dart Programming Language
 Author: Mehedi Hasan
 Topics: Problem Solving || Algorithm & Data Structure 
-Problem Name: String Comparetion in dart 
+Problem Name: String accending & Decending sort in dart
 */
 
 void main() {
@@ -27,5 +27,5 @@ void main() {
   var decending = asccending.reversed;
   print(decending);
 
-  
+
 }
