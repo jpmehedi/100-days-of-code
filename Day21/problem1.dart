@@ -6,7 +6,6 @@ Problem Name: Write a C program to compute the sum of the two given integer valu
 If the two values are the same, then return triple their sum. 
 */
 
-
 void main() {
   test(2, 4);
   test(10, 10);
